@@ -1,0 +1,11 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Classic pin silhouette, drawn with the brand's soft-rounded geometry -->
+  <path d="M120 24
+           C160 24 188 54 188 92
+           C188 138 120 208 120 208
+           C120 208 52 138 52 92
+           C52 54 80 24 120 24 Z"
+        fill="#ff2a19"/>
+  <!-- Inner void, matching the negative-space hole seen in the manual's graphic resources -->
+  <circle cx="120" cy="92" r="30" fill="#fff5eb"/>
+</svg>

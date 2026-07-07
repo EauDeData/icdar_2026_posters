@@ -1,0 +1,13 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Roof -->
+  <path d="M120 30 L200 78 L182 78 L182 92 L58 92 L58 78 L40 78 Z" fill="#ff2a19"/>
+  <!-- Facade -->
+  <rect x="50" y="92" width="140" height="16" rx="6" fill="#920000"/>
+  <!-- Columns -->
+  <rect x="58" y="112" width="20" height="80" rx="8" fill="#ff2a19"/>
+  <rect x="94" y="112" width="20" height="80" rx="8" fill="#ff2a19"/>
+  <rect x="126" y="112" width="20" height="80" rx="8" fill="#ff2a19"/>
+  <rect x="162" y="112" width="20" height="80" rx="8" fill="#ff2a19"/>
+  <!-- Base -->
+  <rect x="44" y="196" width="152" height="18" rx="8" fill="#920000"/>
+</svg>

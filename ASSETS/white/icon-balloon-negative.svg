@@ -1,0 +1,6 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bubble -->
+  <rect x="24" y="34" width="192" height="128" rx="30" fill="#fff5eb"/>
+  <!-- Tail -->
+  <path d="M70 162 L70 206 L114 162 Z" fill="#fff5eb"/>
+</svg>

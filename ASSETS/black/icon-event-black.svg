@@ -1,0 +1,21 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Calendar body -->
+  <rect x="40" y="52" width="160" height="140" rx="18" fill="#000000"/>
+  <!-- Header strip -->
+  <rect x="40" y="52" width="160" height="40" rx="18" fill="#5a5a5a"/>
+  <rect x="40" y="72" width="160" height="20" fill="#5a5a5a"/>
+  <!-- Hangers -->
+  <rect x="66" y="28" width="16" height="40" rx="8" fill="#5a5a5a"/>
+  <rect x="158" y="28" width="16" height="40" rx="8" fill="#5a5a5a"/>
+  <!-- Date grid dots -->
+  <circle cx="72" cy="118" r="9" fill="#fff5eb"/>
+  <circle cx="104" cy="118" r="9" fill="#fff5eb"/>
+  <circle cx="136" cy="118" r="9" fill="#fff5eb"/>
+  <circle cx="168" cy="118" r="9" fill="#fff5eb"/>
+  <circle cx="72" cy="150" r="9" fill="#fff5eb"/>
+  <circle cx="104" cy="150" r="9" fill="#fff5eb"/>
+  <circle cx="136" cy="150" r="9" fill="#fff5eb"/>
+  <!-- Highlighted event date -->
+  <circle cx="168" cy="150" r="12" fill="#fff5eb"/>
+  <circle cx="168" cy="150" r="12" fill="none" stroke="#5a5a5a" stroke-width="4"/>
+</svg>

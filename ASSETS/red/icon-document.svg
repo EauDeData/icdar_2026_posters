@@ -1,0 +1,16 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Document body -->
+  <rect x="52" y="24" width="112" height="152" rx="14" fill="#ff2a19"/>
+  <!-- Folded corner -->
+  <path d="M164 24 L164 60 A36 36 0 0 1 200 96 L164 96 A32 32 0 0 1 164 24 Z" fill="#920000"/>
+  <rect x="128" y="60" width="72" height="36" rx="10" fill="#920000"/>
+  <path d="M164 24 L200 60 L164 60 Z" fill="#ff2a19"/>
+  <!-- Text lines -->
+  <rect x="70" y="78" width="60" height="10" rx="5" fill="#fff5eb"/>
+  <rect x="70" y="100" width="76" height="10" rx="5" fill="#fff5eb"/>
+  <rect x="70" y="122" width="76" height="10" rx="5" fill="#fff5eb"/>
+  <rect x="70" y="144" width="50" height="10" rx="5" fill="#fff5eb"/>
+  <!-- Wax seal, historical-document cue -->
+  <circle cx="80" cy="200" r="26" fill="#920000"/>
+  <circle cx="80" cy="200" r="12" fill="#fff5eb"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Open book, two pages -->
+  <path d="M120 60 C104 46 66 40 40 46 L40 176 C66 170 104 176 120 190 Z" fill="#000000"/>
+  <path d="M120 60 C136 46 174 40 200 46 L200 176 C174 170 136 176 120 190 Z" fill="#000000"/>
+  <!-- Spine -->
+  <rect x="114" y="52" width="12" height="140" rx="6" fill="#5a5a5a"/>
+  <!-- Page lines -->
+  <rect x="58" y="80" width="46" height="8" rx="4" fill="#fff5eb"/>
+  <rect x="58" y="98" width="46" height="8" rx="4" fill="#fff5eb"/>
+  <rect x="58" y="116" width="34" height="8" rx="4" fill="#fff5eb"/>
+  <rect x="136" y="80" width="46" height="8" rx="4" fill="#fff5eb"/>
+  <rect x="136" y="98" width="46" height="8" rx="4" fill="#fff5eb"/>
+  <rect x="136" y="116" width="34" height="8" rx="4" fill="#fff5eb"/>
+</svg>

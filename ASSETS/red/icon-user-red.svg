@@ -1,0 +1,14 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Head -->
+  <circle cx="120" cy="82" r="42" fill="#ff2a19"/>
+  <!-- Shoulders / body, classic flat "user" glyph silhouette -->
+  <path d="M120 138
+           C168 138 200 168 200 210
+           L200 216
+           C200 220 197 224 192 224
+           L48 224
+           C43 224 40 220 40 216
+           L40 210
+           C40 168 72 138 120 138 Z"
+        fill="#ff2a19"/>
+</svg>

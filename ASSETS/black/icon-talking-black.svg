@@ -1,0 +1,8 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Back bubble -->
+  <rect x="30" y="30" width="140" height="96" rx="26" fill="#000000"/>
+  <path d="M56 122 L56 156 L92 122 Z" fill="#000000"/>
+  <!-- Front bubble, overlapping to read as a conversation between two speakers -->
+  <rect x="96" y="104" width="114" height="82" rx="24" fill="#000000"/>
+  <path d="M198 182 L198 212 L166 182 Z" fill="#000000"/>
+</svg>
