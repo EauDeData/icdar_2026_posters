@@ -1,0 +1,191 @@
+<svg viewBox="0 0 842 526" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="842" height="526" fill="#ffffff"/>
+<text x="393.0" y="44" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="700" fill="#111111" text-anchor="middle">Qwen3-VL (32B)</text>
+<text x="563.0" y="44" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="700" fill="#111111" text-anchor="middle">GPT-5.1</text>
+<text x="733.0" y="44" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="700" fill="#111111" text-anchor="middle">Phi-4 (15B)</text>
+<rect x="308" y="49" width="510" height="3" rx="1.5" fill="#ff2a19"/>
+<text x="312" y="66" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="700" fill="#9a9a9a">NERO-ANLS</text>
+<text x="312" y="84" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="8.5" fill="#9a9a9a">0</text>
+<text x="416" y="84" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="8.5" fill="#9a9a9a">1</text>
+<text x="482" y="66" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="700" fill="#9a9a9a">NERO-ANLS</text>
+<text x="482" y="84" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="8.5" fill="#9a9a9a">0</text>
+<text x="586" y="84" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="8.5" fill="#9a9a9a">1</text>
+<text x="652" y="66" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="700" fill="#9a9a9a">NERO-ANLS</text>
+<text x="652" y="84" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="8.5" fill="#9a9a9a">0</text>
+<text x="756" y="84" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="8.5" fill="#9a9a9a">1</text>
+<text x="138" y="66" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="700" fill="#9a9a9a">Technique</text>
+<line x1="24" y1="82" x2="818" y2="82" stroke="#111111" stroke-width="1.5"/>
+<text x="138" y="101.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">GT Transcription</text>
+<rect x="312" y="91.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="91.5" width="47.9" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="101.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.43</text>
+<rect x="482" y="91.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="91.5" width="51.6" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="101.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.47</text>
+<rect x="652" y="91.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="91.5" width="46.0" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="101.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.42</text>
+<line x1="50" y1="112" x2="818" y2="112" stroke="#e8e8e8" stroke-width="1"/>
+<text x="138" y="131.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">HTR0 Transcription</text>
+<rect x="312" y="121.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="121.5" width="40.8" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="131.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.37</text>
+<rect x="482" y="121.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="121.5" width="36.3" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="131.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.33</text>
+<rect x="652" y="121.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="121.5" width="37.0" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="131.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.34</text>
+<line x1="50" y1="142" x2="818" y2="142" stroke="#e8e8e8" stroke-width="1"/>
+<text x="138" y="161.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">HTR1 Transcription</text>
+<rect x="312" y="151.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="151.5" width="45.5" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="161.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.41</text>
+<rect x="482" y="151.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="151.5" width="45.3" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="161.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.41</text>
+<rect x="652" y="151.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="151.5" width="32.1" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="161.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.29</text>
+<line x1="50" y1="172" x2="818" y2="172" stroke="#e8e8e8" stroke-width="1"/>
+<text x="138" y="191.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">HTR2 Transcription</text>
+<rect x="312" y="181.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="181.5" width="47.6" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="191.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.43</text>
+<rect x="482" y="181.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="181.5" width="41.9" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="191.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.38</text>
+<rect x="652" y="181.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="181.5" width="33.1" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="191.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.30</text>
+<line x1="50" y1="202" x2="818" y2="202" stroke="#e8e8e8" stroke-width="1"/>
+<text x="138" y="221.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">HTR4 Transcription</text>
+<rect x="312" y="211.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="211.5" width="47.0" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="221.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.43</text>
+<rect x="482" y="211.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="211.5" width="46.1" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="221.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.42</text>
+<rect x="652" y="211.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="211.5" width="36.0" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="221.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.33</text>
+<line x1="50" y1="232" x2="818" y2="232" stroke="#e8e8e8" stroke-width="1"/>
+<g transform="rotate(-90 37.0 157.0)">
+<rect x="-27.0" y="146.0" width="128" height="22" rx="11" fill="#ff2a19"/>
+<text x="37.0" y="161.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">RAG</text>
+</g>
+<line x1="24" y1="232" x2="818" y2="232" stroke="#111111" stroke-width="1.5"/>
+<text x="138" y="251.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">Property-GT</text>
+<rect x="312" y="241.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="241.5" width="87.9" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="251.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.80</text>
+<rect x="482" y="241.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="241.5" width="88.8" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="251.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.81</text>
+<rect x="652" y="241.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="241.5" width="71.1" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="251.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.65</text>
+<line x1="50" y1="262" x2="818" y2="262" stroke="#e8e8e8" stroke-width="1"/>
+<text x="138" y="281.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">RDF-GT</text>
+<rect x="312" y="271.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="271.5" width="89.4" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="281.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.81</text>
+<rect x="482" y="271.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="271.5" width="95.2" height="11" rx="5.5" fill="#ff2a19" fill-opacity="1"/>
+<text x="598" y="281.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="700" fill="#ff2a19">.86</text>
+<rect x="652" y="271.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="271.5" width="70.2" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="281.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.64</text>
+<line x1="50" y1="292" x2="818" y2="292" stroke="#e8e8e8" stroke-width="1"/>
+<text x="138" y="311.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">RDF-HTR1</text>
+<rect x="312" y="301.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="301.5" width="68.3" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="311.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.62</text>
+<rect x="482" y="301.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="301.5" width="72.5" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="311.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.66</text>
+<rect x="652" y="301.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="301.5" width="58.5" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="311.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.53</text>
+<line x1="50" y1="322" x2="818" y2="322" stroke="#e8e8e8" stroke-width="1"/>
+<line x1="128" y1="322" x2="818" y2="322" stroke="#e8e8e8" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="138" y="341.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">Property-GT</text>
+<rect x="312" y="331.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="331.5" width="86.5" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="341.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.79</text>
+<rect x="482" y="331.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="331.5" width="88.4" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="341.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.80</text>
+<rect x="652" y="331.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="331.5" width="67.4" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="341.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.61</text>
+<line x1="50" y1="352" x2="818" y2="352" stroke="#e8e8e8" stroke-width="1"/>
+<text x="138" y="371.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">RDF-GT</text>
+<rect x="312" y="361.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="361.5" width="96.4" height="11" rx="5.5" fill="#ff2a19" fill-opacity="1"/>
+<text x="428" y="371.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="700" fill="#ff2a19">.88</text>
+<rect x="482" y="361.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="361.5" width="89.9" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="371.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.82</text>
+<rect x="652" y="361.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="361.5" width="71.1" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="371.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.65</text>
+<line x1="50" y1="382" x2="818" y2="382" stroke="#e8e8e8" stroke-width="1"/>
+<text x="89.0" y="356.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="11" font-weight="700" fill="#920000" text-anchor="middle">PHOC</text>
+<line x1="128" y1="382" x2="818" y2="382" stroke="#e8e8e8" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="138" y="401.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">RDF-HTR1</text>
+<rect x="312" y="391.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="391.5" width="75.9" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="401.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.69</text>
+<rect x="482" y="391.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="391.5" width="73.6" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="401.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.67</text>
+<rect x="652" y="391.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="391.5" width="69.4" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="401.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.63</text>
+<line x1="50" y1="412" x2="818" y2="412" stroke="#e8e8e8" stroke-width="1"/>
+<text x="138" y="431.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">Property-GT</text>
+<rect x="312" y="421.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="421.5" width="87.9" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="431.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.80</text>
+<rect x="482" y="421.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="421.5" width="89.6" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="431.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.81</text>
+<rect x="652" y="421.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="421.5" width="68.1" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="431.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.62</text>
+<line x1="50" y1="442" x2="818" y2="442" stroke="#e8e8e8" stroke-width="1"/>
+<text x="138" y="461.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">RDF-GT</text>
+<rect x="312" y="451.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="451.5" width="89.4" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="461.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.81</text>
+<rect x="482" y="451.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="451.5" width="90.9" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="461.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.83</text>
+<rect x="652" y="451.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="451.5" width="67.4" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="461.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.61</text>
+<line x1="50" y1="472" x2="818" y2="472" stroke="#e8e8e8" stroke-width="1"/>
+<text x="138" y="491.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111111">RDF-HTR1</text>
+<rect x="312" y="481.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="312" y="481.5" width="75.9" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="428" y="491.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.69</text>
+<rect x="482" y="481.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="482" y="481.5" width="74.0" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="598" y="491.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.67</text>
+<rect x="652" y="481.5" width="110" height="11" rx="5.5" fill="#f1f1f1"/>
+<rect x="652" y="481.5" width="73.8" height="11" rx="5.5" fill="#920000" fill-opacity="0.62"/>
+<text x="768" y="491.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="10.5" font-weight="400" fill="#9a9a9a">.67</text>
+<line x1="50" y1="502" x2="818" y2="502" stroke="#e8e8e8" stroke-width="1"/>
+<text x="89.0" y="446.0" font-family="Consolas, 'IBM Plex Mono', monospace" font-size="11" font-weight="700" fill="#920000" text-anchor="middle">MPNET</text>
+<line x1="128" y1="502" x2="818" y2="502" stroke="#e8e8e8" stroke-width="1" stroke-dasharray="2,3"/>
+<g transform="rotate(-90 37.0 367.0)">
+<rect x="-47.0" y="356.0" width="168" height="22" rx="11" fill="#ff2a19"/>
+<text x="37.0" y="371.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">GRAPH RAG</text>
+</g>
+<line x1="24" y1="502" x2="818" y2="502" stroke="#111111" stroke-width="1.5"/>
+<line x1="128" y1="26" x2="128" y2="502" stroke="#e8e8e8" stroke-width="1"/>
+<line x1="308" y1="26" x2="308" y2="502" stroke="#111111" stroke-width="1.5"/>
+<line x1="478" y1="26" x2="478" y2="502" stroke="#e8e8e8" stroke-width="1"/>
+<line x1="648" y1="26" x2="648" y2="502" stroke="#e8e8e8" stroke-width="1"/>
+</svg>
